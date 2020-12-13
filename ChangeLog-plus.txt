@@ -1,8 +1,9 @@
 {"version_code":999999999,"content":"
-<p>تحديث V1. 10.0</p>
+<p>تحديث V10.0</p>
 
 <li>التحديث لنسخة الماركت 2.20.205.16</li>
-<li>مميزات جديدة</li>
+<li>قريبا مميزات جديدة ترقبونا</li>
+
 
 ","url":"https://abodysy.blogspot.com/2020/05/sywhatsapp.html?m=1"
 }
