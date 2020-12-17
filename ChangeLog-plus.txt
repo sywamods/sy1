@@ -1,8 +1,7 @@
 {"version_code":9999,"content":"
 <p>تحديث V10.0</p>
 
-<li>التحديث لنسخة الماركت 2.20.205.16</li>
-<li>قريبا مميزات جديدة  إنتظرونا</li>
+<li>شكرا لاستخدامك واتساب </li>
 
 
 ","url":"https://abodysy.blogspot.com/2020/05/sywhatsapp.html?m=1"
