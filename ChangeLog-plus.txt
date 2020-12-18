@@ -1,5 +1,5 @@
-{"version_code":205516111,"content":"
-<p>رسالة مؤقته</p>
+{"version_code":205516004,"content":"
+<p>Test</p>
 
 <li>شكرا لاستخدامك واتساب </li>
 
