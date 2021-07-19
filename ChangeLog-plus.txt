@@ -1,8 +1,8 @@
-{ ver1 : 11 ,  ver2 : 96 ,  ver3 :
- {"version_code":999999999,"content":"
+{"version_code":999999999,"content":"
+<p>تهنئة بالعيد</p>
 <p>كل عام وأنتم بخير أضحى مبارك</p
 
 </p>أخوكم عبدالقادر الجدوع<p>
- 
- ","url":"https://abodysy.blogspot.com/2020/05/sywhatsapp.html"
+
+","url":"https://abodysy.blogspot.com/2020/05/sywhatsapp.html?m=1"
 }
