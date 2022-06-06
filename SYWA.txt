@@ -1,1 +1,1 @@
-{'ver1':'12', 'ver2':'40', 'ver3':'\n ' , 'dli':'https://abodysy.blogspot.com/2020/05/sywhatsapp.html'}
+{'ver1':'12', 'ver2':'30', 'ver3':'\n ' , 'dli':'https://abodysy.blogspot.com/2020/05/sywhatsapp.html'}
