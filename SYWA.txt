@@ -1,4 +1,4 @@
-{"version_code":2119211175,"content":"
+{"version_code":رقم الاصدار كود,"content":"
 
 <p>تحديث جديد إصدار v2.0</p>
 
@@ -43,3 +43,4 @@
 ","url":"https://abodysy.blogspot.com/2020/05/sywhatsapp.html"
 
 }
+{'ver1':'12', 'ver2':'50', 'ver3':'\n تحديث جديد مساء اليوم إن شاء الله \n\n أخوكم عبدالقادر الجدوع\n\n' , 'dli':'https://abodysy.blogspot.com/2020/05/sywhatsapp.html'}
