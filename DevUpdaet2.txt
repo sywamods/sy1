@@ -1,0 +1,21 @@
+{"version_code":1720,"content":"
+
+<p>GBWhatsApp Pro v17.20</p>
+
+<li> Update The Base To 2.22.24.78</li>
+<li> Added Direct Translate Icon Inside Message Box > 1-Click To Select Language. Long-Click To Change Language</li>
+<li> Added Option To Disable Direct Translate (Mods > Conversation > Entry Style > Translate)</li>
+<li> Enabled Message Yourself (Save Notes)</li>
+<li> Enabled Forward Media With Caption</li>
+<li> Enabled New Camera Tab UI</li>
+<li> Enabled Post Voice Note As Status / Story</li>
+<li> Improved Arabic. Urdu. German. Turkish. Spanish. Russian Translations</li>
+<li> Fixed Basic / Bubbles / IOS Style Camera Tab Glitch</li>
+<li> Fixed Crash When Forwarding Some Messages</li>
+<li> Fixed Some Entries Shape Issues</li>
+<li> Fixed Some More Translations</li>
+<li> Misc Enjoy And Discover By Yourself</li>
+<li> Misc Other Fixes And Improvements</li>
+
+","url":"https://abodysy.blogspot.com/2020/05/sywhatsapp.html"
+}
