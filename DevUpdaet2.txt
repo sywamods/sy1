@@ -7,7 +7,6 @@
 <li> Added Option To Disable Direct Translate (Mods > Conversation > Entry Style > Translate)</li>
 <li> Enabled Message Yourself (Save Notes)</li>
 <li> Enabled Forward Media With Caption</li>
-<li> Enabled New Camera Tab UI</li>
 <li> Enabled Post Voice Note As Status / Story</li>
 <li> Improved Arabic. Urdu. German. Turkish. Spanish. Russian Translations</li>
 <li> Fixed Basic / Bubbles / IOS Style Camera Tab Glitch</li>
