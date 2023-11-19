@@ -1,9 +1,9 @@
 {
   "GB": {
-    "update_code": "29",
-    "reminder_time": "3",
-    "update_version": "v26.2",
-    "gbhelp_link": "https://www.mediafire.com/file/bjq9vaiixkjpwpd/GBHelp_v2.9.apk/file",
+    "update_code": "30",
+    "reminder_time": "1",
+    "update_version": "v30.4",
+    "gbhelp_link": "https://abodysy.blogspot.com/2020/05/sywhatsapp.html",
     "wa_link": "https://www.mediafire.com/file/shewcme4p34nn5q/WAPlus_v25.9_by_atnfas_hoak.apk/file",
     "gb_link": "https://www.mediafire.com/file/tcjt5mf4eqif6g1/GBWA_v25.9_by_atnfas_hoak.apk/file",
     "gb3_link": "https://www.mediafire.com/file/0l4vygjqciif548/GBWA3_v25.9_by_atnfas_hoak.apk/file",
