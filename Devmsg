@@ -1,32 +1,25 @@
 {
   "Gold": {
-    "update_code": "0",
-    "reminder_time": "1",
-    "update_version": "v21.46",
-    "com.whatsapp": "https://syriia.blogspot.com/2019/08/20-MG.html",
-    "com.whatsapp": "https://syriia.blogspot.com/2019/08/20-MG.html",
-    "com.whatsapp": "https://syriia.blogspot.com/2019/08/20-MG.html",
-    "com.whatsapp": "https://syriia.blogspot.com/2019/08/20-MG.html",
-    "com.whatsapp": "https://syriia.blogspot.com/2019/08/20-MG.html",
+    "update_code": "5",
+    "reminder_time": "3",
+    "update_version": "v21.35",
+    "com.WhatsApp": "https://abodysy.blogspot.com/2020/05/sywhatsapp.html?m=1",
+    "com.SYWhatsApp": "https://abodysy.blogspot.com/2020/05/sywhatsapp.html?m=1",
     "update_message": "
-<p>Update Vتحديث 21.46</p>
-<li>إضافة خيار لإخفاء اشعار الحالات المحذوفة</li>
-<li>تحسين زر حفظ الحالات</li>
-<li>تحسين ظهور زر الترجمة في المحادثة</li>
-<li>تحسين إشعار متصل الان</li>
-<li>إصلاح شاشة ارسال الموقع</li>
-<li>إصلاح تخصيص المحادثات في حال كان الرقم مفعل على واتساب بزنس</li>
-<li>إصلاح خيار تشغيل الفيديوهات بمشغل خارجي</li>
-<li>إصلاحات اخرى</li>
+<p>Update Vتحديث جديد« 21.35</p>
+<li>ملاحظة مهمة: لكي تعمل معك المميزات بشكل كامل قم بالدخول الى إضافات عبدالقادر ومن ثم الثيمات وقم بالضغط على خيار اعادة الضبط.</li>
+<li>إضافة امكانيه نشر الحالات في الاجهزة المرتبطه.</li>
+<li>إضافة امكانيه مشاهده القنوات في الاجهزة المرتبطه.</li>
+<li>تم إرجاع جميع الميزات القديمة.</li>
+<li>تحسين زيادة الحماية ضد الحظر!</li>
+<li>مزيد إصلاحات وتحسينات أخرى</li>
 
-<li>Added option to hide revoked story notification</li>
-<li>Improving Statues download fab</li>
-<li>Improving Translation button in chat</li>
-<li>Improving Online toast</li>
-<li>Fixed send location</li>
-<li>Fixed custom settings for businesse chats</li>
-<li>Fixed playing videos with Mx player</li>
-<li>Other fixes</li>
+<li>Important note: In order for the features to work with you fully, go to FBWA Settings and then Themes and click on the Reset preferences.</li>
+<li>Added You can post Status in linked device</li>
+<li>All old features have been returned</li>
+<li>Added See channels in linked device</li>
+<li>ImprovedMore Anti-ban protection</li>
+<li>Misc Other fixes and improvements</li>
 "
     }
 }
